@@ -44,6 +44,7 @@ a {
 
 .neck {
     display: flex;
+    padding: 50px 200px 50px 200px;
 }
 
 .title {
@@ -64,4 +65,8 @@ button {
     border: none;
     border-radius: 8px;
     padding: 6px 24px;
+}
+
+.tricolor{
+    max-width: 600px;
 }
