@@ -54,11 +54,14 @@ a {
     font-size: 48px;
     font-weight: bold;
     color: #F9FAF8;
+    padding-bottom: 15px;
 }
 
 p {
     font-size: 18px;
     color: #E5E7EB;
+    padding: 0;
+    margin: 0;
 }
 
 button {
@@ -135,4 +138,20 @@ button {
     align-items: center;
     padding: 30px 70px 30px 70px;
     border-radius: 8px;
+}
+
+.button {
+    border: 2px solid #E5E7EB;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.call {
+    font-size: 20px;
+    font-weight: bold;
+    color:#E5E7EB;
 }
