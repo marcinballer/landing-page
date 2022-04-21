@@ -123,3 +123,16 @@ button {
     font-size: 20px;
     font-weight: bold;
 }
+
+.div {
+    padding: 50px 200px 50px 200px;
+}
+
+.action {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 70px 30px 70px;
+    border-radius: 8px;
+}
