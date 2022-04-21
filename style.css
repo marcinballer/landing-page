@@ -45,3 +45,9 @@ a {
 .neck {
     display: flex;
 }
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
