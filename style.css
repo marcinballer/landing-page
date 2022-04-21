@@ -106,3 +106,8 @@ button {
     border: 4px solid #3882F6;
     border-radius: 14px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 70px 250px 70px 250px;
+}
