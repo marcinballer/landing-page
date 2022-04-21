@@ -56,3 +56,12 @@ p {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 24px;
+}
