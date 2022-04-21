@@ -44,6 +44,9 @@ a {
 
 .neck {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
     padding: 50px 200px 50px 200px;
 }
 
@@ -68,5 +71,5 @@ button {
 }
 
 .tricolor{
-    max-width: 600px;
+    max-width: 500px;
 }
