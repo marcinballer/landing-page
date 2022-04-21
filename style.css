@@ -87,6 +87,12 @@ button {
     align-items: center;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 .cat {
     max-width: 150px;
 }
