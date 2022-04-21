@@ -1,6 +1,7 @@
 body {
     font-family: Helvetica, Verdana, Tahoma, sans-serif;
     margin: 0;
+    min-height: 100vh;
 }
 
 .body {
