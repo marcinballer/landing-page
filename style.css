@@ -91,6 +91,11 @@ button {
     display: flex;
     justify-content: center;
     text-align: center;
+    gap: 50px;
+}
+
+.text {
+    max-width: 150px;
 }
 
 .cat {
