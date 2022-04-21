@@ -109,5 +109,17 @@ button {
 
 .quote {
     background-color: #E5E7EB;
-    padding: 70px 250px 70px 250px;
+    padding: 70px 300px 70px 300px;
+}
+
+.content {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.sign {
+    text-align: end;
+    font-size: 20px;
+    font-weight: bold;
 }
